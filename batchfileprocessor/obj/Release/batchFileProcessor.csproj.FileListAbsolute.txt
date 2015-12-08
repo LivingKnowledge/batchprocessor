@@ -1,0 +1,12 @@
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.exe.config
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.exe
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.pdb
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.csprojResolveAssemblyReference.cache
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.exe
+D:\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.pdb
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.exe.config
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.exe
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\bin\Release\batchFileProcessor.pdb
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.csprojResolveAssemblyReference.cache
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.exe
+E:\Tools\VGP232\batchprocessor\batchfileprocessor\batchFileProcessor\obj\Release\batchFileProcessor.pdb
